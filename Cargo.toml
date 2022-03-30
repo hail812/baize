@@ -1,6 +1,7 @@
 [package]
 name = "baize"
 version = "0.1.0"
+authors = ["Hail <hail812@163.com>"]
 edition = "2021"
 description = """
 baize
